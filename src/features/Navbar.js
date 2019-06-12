@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
-import { ReactComponent as CCVLogo } from '../assets/svg/ccv-logo.svg';
-import { ReactComponent as BrownLogo } from '../assets/svg/brown-logo.svg';
+import React from 'react';
+import { ReactComponent as CCVLogo } from '../../assets/svg/ccv-logo.svg';
+import { ReactComponent as BrownLogo } from '../../assets/svg/brown-logo.svg';
 import '../styles/custom.scss';
 
 const Navbar = () => (
