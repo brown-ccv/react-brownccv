@@ -2,8 +2,8 @@ import React from 'react';
 
 import { storiesOf } from '@storybook/react';
 
-import Navbar from '../features/Navbar';
-import BrownFooter from '../features/BrownFooter';
+import Navbar from '../components/Navbar';
+import BrownFooter from '../components/BrownFooter';
 
 storiesOf('Navbar', module).add("Brown/CCV", () => (
   <Navbar />
